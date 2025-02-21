@@ -1,5 +1,8 @@
 from product_module import get_product
 from disount_module import apply_discount
+# order_module.py
+
+from product_module import get_product
 
 def calculate_total_price(order_items):
     """

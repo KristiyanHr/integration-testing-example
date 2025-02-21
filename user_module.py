@@ -1,3 +1,5 @@
+# user_module.py
+
 def validate_user(email, password):
     """
     Валидира потребителски данни.

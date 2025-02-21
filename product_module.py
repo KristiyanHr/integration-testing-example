@@ -1,3 +1,6 @@
+# product_module.py
+
+# База данни с продукти (речник)
 products = {}
 
 def add_product(product_id, name, price):

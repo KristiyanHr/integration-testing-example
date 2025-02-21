@@ -1,3 +1,5 @@
+# main_app.py
+
 from product_module import add_product
 from order_module import calculate_total_price
 from user_module import validate_user
